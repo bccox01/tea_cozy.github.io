@@ -120,3 +120,12 @@ nav span a {
 .locations.container h3 h4 {
   display: block;
 }
+
+.contact {
+  height: 200px;
+}
+
+.copyright {
+  text-align: left;
+  margin-left: 20px;
+}
